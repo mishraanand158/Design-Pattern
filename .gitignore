@@ -22,6 +22,9 @@ target/
 *.iws
 *.iml
 *.ipr
+mvnw
+mvnw.cmd
+
 
 ########## Vs Code ##########
 .vscode/
